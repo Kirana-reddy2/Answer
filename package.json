@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Kirana-reddy2/Table-Project1",
+  
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
@@ -18,8 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d C:\\Users\\Administrator\\Desktop\\project\\myapp\\src\\Table\\Table1.js"
+    
   },
   "eslintConfig": {
     "extends": [
